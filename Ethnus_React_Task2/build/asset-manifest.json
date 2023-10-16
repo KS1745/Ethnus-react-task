@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Task-2/static/css/main.8519ed8d.css",
+    "main.js": "/React-Task-2/static/js/main.9c3d9f59.js",
+    "static/media/moon.png": "/React-Task-2/static/media/moon.ed34e3ccb9cc98e025d1.png",
+    "static/media/sun.png": "/React-Task-2/static/media/sun.c083fc151ebd00ab40a2.png",
+    "index.html": "/React-Task-2/index.html",
+    "main.8519ed8d.css.map": "/React-Task-2/static/css/main.8519ed8d.css.map",
+    "main.9c3d9f59.js.map": "/React-Task-2/static/js/main.9c3d9f59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8519ed8d.css",
+    "static/js/main.9c3d9f59.js"
+  ]
+}
